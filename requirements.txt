@@ -1,3 +1,8 @@
 fastapi
 uvicorn
 pydantic
+jinja2
+python-multipart
+aiohttp
+requests
+python-decouple
